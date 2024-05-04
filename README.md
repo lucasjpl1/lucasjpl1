@@ -1,8 +1,8 @@
 
 ## Olá! Caiu aqui no meu perfil? Prazer eu sou o Lucas Jesus.
 
--👨‍💻 Trabalhando só no back-end<br>
--📘 Estutando PHP
+-👨‍💻 Dev back-end<br>
+
  
 
 <div>
