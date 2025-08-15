@@ -1,7 +1,7 @@
 
 ## Olá! Caiu aqui no meu perfil? Prazer eu sou o Lucas Jesus.
 
--👨‍💻 Dev back-end<br>
+-👨‍💻 Dev Full-Stack <br>
 
  
 
