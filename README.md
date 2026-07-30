@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner - using reliable service -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Lucas%20Jesus&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ERP%20Architect%20%7C%20Data%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" onerror="this.style.display='none'"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Lucas%20Jesus&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ERP%20Architect%20%7C%20Data%20Engineer&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <!-- Fallback title if banner fails -->
 <h1>👋 Olá, eu sou <strong>Lucas Jesus</strong></h1>
@@ -93,8 +93,8 @@ const lucas = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjpl1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjpl1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-nu-three-43.vercel.app/api?username=lucasjpl1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-nu-three-43.vercel.app/api/top-langs/?username=lucasjpl1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
@@ -126,8 +126,8 @@ const lucas = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-jesus-357ba5182)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasjesuss2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_lucas_jesus)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lucasjesus5043)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/1105965198549995611)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Lucas_JesusOFC)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1105965198549995611)
 
 </div>
 
