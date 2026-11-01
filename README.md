@@ -15,7 +15,6 @@
   <a href="mailto:lucasjesuss2004@gmail.com"><img src="https://img.shields.io/badge/E--mail-f4f4f0?style=flat-square&logo=gmail&logoColor=D14836" alt="E-mail"/></a>
   <a href="https://www.youtube.com/@Lucas_JesusOFC"><img src="https://img.shields.io/badge/YouTube-f4f4f0?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
   <a href="https://instagram.com/dev_lucas_jesus"><img src="https://img.shields.io/badge/Instagram-f4f4f0?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-  <img src="https://img.shields.io/badge/status-aberto_a_oportunidades-0E7C66?style=flat-square" alt="Aberto a oportunidades"/>
 </p>
 
 ---
@@ -23,6 +22,14 @@
 ### Sobre
 
 > **No momento** · conduzindo a fase final da migração de ERP (legado → Omie + IAPP) · estruturando a central de chamados da empresa.
+
+<details>
+<summary><b>🇺🇸 In English</b></summary>
+<br/>
+
+IT analyst and full-stack developer at a multi-site cosmetics manufacturer in Brazil, where I'm the only IT professional. I build internal systems that replace spreadsheet-driven processes (TypeScript, Next.js, Node.js, PostgreSQL, SQL Server), lead ERP migration and master-data cleanup, and run the network and support side as well. Comfortable with Brazilian fiscal rules (NF-e, SPED, NCM/CEST) and ISO-style documentation.
+
+</details>
 
 ---
 
@@ -73,14 +80,12 @@
 
 ### Experiência
 
-**Analista de TI & Desenvolvedor de Sistemas** · GlobalPro Cosméticos <sub>· 20XX — atual</sub>
+**Analista de TI & Desenvolvedor de Sistemas** · GlobalPro Cosméticos <sub>· 2026 — atual</sub>
 - TI completa de uma indústria multi-unidade: suporte N1–N3, rede, servidores, e-mail e desenvolvimento interno
 - Liderança técnica da migração do ERP legado para **Omie + IAPP**: mapeamento de campos, saneamento de cadastro, NCM/CEST, treinamentos e homologação de NF-e
 - Auditoria de *master data* em 5 bancos SQL Server que revelou milhares de conflitos e órfãos bloqueando a migração — e virou uma ferramenta de monitoramento contínuo
 - Propostas de investimento para a diretoria (backup NAS, firewall/segmentação, suporte remoto) escritas em linguagem de negócio
 - Padronização de atas de treinamento em modelo ISO (FORM-ATA-001), gerando FAQ e trilha de auditoria
-
-**Freelancer** · Hardware e tecnologia <sub>· paralelo</sub>
 
 <!-- ➕ ADICIONAR experiência:
 **Cargo** · Empresa <sub>· início — fim</sub>
@@ -128,6 +133,8 @@
 **Ação** · isolei as junções uma a uma até achar um *fan-out* no JOIN multiplicando linhas.
 **Conclusão** · antes de confiar num número, conte as linhas de cada etapa. Agregue antes de juntar.
 
+<sub>[ler o caso completo →](./notas/01-relatorio-que-duplicava.md)</sub>
+
 </td>
 <td width="50%" valign="top">
 
@@ -136,6 +143,8 @@
 **Contexto** · a migração de ERP parecia pronta para começar.
 **Ação** · auditei os 5 bancos e levei os números para a diretoria em um dossiê.
 **Conclusão** · migração não é cópia de dados, é decisão sobre eles. Dado sujo migrado continua sujo — só que em outro sistema.
+
+<sub>[ler o caso completo →](./notas/02-auditar-antes-de-migrar.md)</sub>
 
 </td>
 </tr>
@@ -148,6 +157,8 @@
 **Ação** · em vez de virar a chave de uma vez, mantive os dois rodando e validei com o fornecedor.
 **Conclusão** · quando a regra do sistema novo contradiz a operação, entenda o *porquê* da operação antes de forçar qualquer lado.
 
+<sub>[ler o caso completo →](./notas/03-rodar-em-paralelo.md)</sub>
+
 </td>
 <td width="50%" valign="top">
 
@@ -157,11 +168,16 @@
 **Ação** · escrevi propostas com risco, custo e cenário de falha — não com especificação técnica.
 **Conclusão** · diretoria não compra tecnologia, compra redução de risco. Traduzir é metade do trabalho.
 
+<sub>[ler o caso completo →](./notas/04-falar-a-lingua-de-quem-decide.md)</sub>
+
 </td>
 </tr>
 </table>
 
-<!-- ➕ ADICIONAR reflexão: copie um bloco <td> ... </td> (abra um novo <tr> a cada 2) -->
+<p align="right"><sub><a href="./notas/">todas as notas →</a></sub></p>
+
+<!-- ➕ ADICIONAR reflexão: copie um bloco <td> ... </td> (abra um novo <tr> a cada 2)
+     e crie o texto longo em notas/ usando notas/_modelo.md -->
 
 ---
 
