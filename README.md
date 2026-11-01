@@ -180,18 +180,19 @@ Gosto do ponto onde **processo de negócio encontra sistema**: pegar uma planilh
 <!-- ➕ ADICIONAR certificado: copie uma linha da tabela.
      Link: Credly, Microsoft Learn, Alura, Udemy ou um PDF salvo em /certificados neste repositório. -->
 
-| Certificado | Emissor | Ano | |
+| Certificado | Emissor | Data | |
 |---|---|:-:|:-:|
-| Nome do certificado | Instituição | 2026 | [ver ↗](#) |
-| Nome do certificado | Instituição | 2025 | [ver ↗](#) |
-| Nome do certificado | Instituição | 2025 | [ver ↗](#) |
+| **Ask Questions to Make Data-Driven Decisions** <br/><sub>Google Data Analytics · nota 91,9%</sub> | Google · Coursera | out/2026 | [verificar ↗](https://www.coursera.org/account/accomplishments/verify/6H9OZ5ZW28Z9) |
+| **Foundations: Data, Data, Everywhere** <br/><sub>Google Data Analytics · nota 88,3%</sub> | Google · Coursera | out/2026 | [verificar ↗](https://www.coursera.org/account/accomplishments/verify/BL99VOE0TS7R) |
+| **IBM Garage Essentials** <br/><sub>Agile · Design Thinking · IBM Garage Methodology</sub> | IBM · Credly | ago/2026 | [verificar ↗](https://www.credly.com/badges/06a92c19-fec9-4d7f-be6e-81190c6db206/public_url) |
 
 <details>
-<summary><b>Cursos e trilhas em andamento</b></summary>
+<summary><b>Cursos concluídos e em andamento</b></summary>
 <br/>
 
-- [ ] Curso / trilha — plataforma
-- [ ] Curso / trilha — plataforma
+- [x] **Git e GitHub para iniciantes** — Udemy · Willian Justen · [curso ↗](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+- [ ] **Python 3 do básico ao avançado** — Udemy · Luiz Otávio Miranda · 140h+ (POO, Django, PySide6, SQL, TDD, Design Patterns GoF) · reta final · [curso ↗](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
+- [ ] **Google Data Analytics** (certificado profissional) — Coursera · em andamento
 
 </details>
 
