@@ -22,11 +22,7 @@
 
 ### Sobre
 
-Sou o único profissional de TI de uma indústria de cosméticos com várias unidades. Isso significa que no mesmo dia eu posso estar cabeando um rack, debugando um relatório SQL que duplica linhas e apresentando para a diretoria por que vale investir em backup externo.
-
-Gosto do ponto onde **processo de negócio encontra sistema**: pegar uma planilha que só uma pessoa entende, descobrir as regras que estão escondidas nela e transformar isso em software que qualquer um consegue usar — e auditar.
-
-> **No momento** · conduzindo a fase final da migração de ERP (legado → Omie + IAPP) · estruturando a central de chamados da empresa · construindo um teste de velocidade público com medições reais.
+> **No momento** · conduzindo a fase final da migração de ERP (legado → Omie + IAPP) · estruturando a central de chamados da empresa.
 
 ---
 
@@ -85,8 +81,6 @@ Gosto do ponto onde **processo de negócio encontra sistema**: pegar uma planilh
 - Padronização de atas de treinamento em modelo ISO (FORM-ATA-001), gerando FAQ e trilha de auditoria
 
 **Freelancer** · Hardware e tecnologia <sub>· paralelo</sub>
-- Manutenção, montagem e soluções sob medida para clientes
-- Modelagem 3D e impressão de peças funcionais (Blender + Bambu Studio), incluindo produção em lote para revenda
 
 <!-- ➕ ADICIONAR experiência:
 **Cargo** · Empresa <sub>· início — fim</sub>
@@ -103,9 +97,6 @@ Gosto do ponto onde **processo de negócio encontra sistema**: pegar uma planilh
 | 🧾 | **Necessidade de Produção** | Transformar a planilha manual de necessidade de produção em aplicação web | Next.js · PostgreSQL |
 | 🎫 | **Central de Chamados** | Fluxo de 6 etapas com SLA por prioridade (2h a 24h) e integração por e-mail em andamento | Pipefy · cPanel |
 | 🌐 | **Rede corporativa** | Projeto dual-WAN (Starlink + fibra) com UniFi e cobertura por APs | UniFi · Starlink |
-| ⚡ | **Speed Test público** <sub>em construção</sub> | Download, upload, ping, jitter e perda de pacote medidos de verdade, sem simulação | Next.js · Cloudflare · Vercel |
-| 🛡️ | **SecureScan** | Pentest sintético com LLM local e mapeamento para MITRE ATT&CK | Python · Ollama · Qwen |
-| 🏷️ | **LabelSpec AI** | Gera especificação de fita adesiva (FINAT), scripts Fusion 360, cenas Blender e relatórios a partir de texto | HTML · JS · IA |
 
 <details>
 <summary><b>Mais projetos</b></summary>
@@ -115,7 +106,6 @@ Gosto do ponto onde **processo de negócio encontra sistema**: pegar uma planilh
 |:-:|---|---|---|
 | 🧩 | **Sistema interno unificado** | Substitui três planilhas operacionais por um sistema web único | Next.js · PostgreSQL |
 | 📦 | **Acompanhamento de insumos** | Chegada, conferência de qualidade e comunicação com cliente por modalidade de pedido | Web |
-| 🖨️ | **Suporte de frasco** | Peça 3D funcional modelada no Blender e produzida em lote para revenda | Blender · Bambu Studio |
 
 <!-- ➕ ADICIONAR projeto (copie a linha):
 | 🔧 | **Nome** | Problema que resolve | Stack | -->
@@ -185,13 +175,13 @@ Gosto do ponto onde **processo de negócio encontra sistema**: pegar uma planilh
 | **Ask Questions to Make Data-Driven Decisions** <br/><sub>Google Data Analytics · nota 91,9%</sub> | Google · Coursera | out/2026 | [verificar ↗](https://www.coursera.org/account/accomplishments/verify/6H9OZ5ZW28Z9) |
 | **Foundations: Data, Data, Everywhere** <br/><sub>Google Data Analytics · nota 88,3%</sub> | Google · Coursera | out/2026 | [verificar ↗](https://www.coursera.org/account/accomplishments/verify/BL99VOE0TS7R) |
 | **IBM Garage Essentials** <br/><sub>Agile · Design Thinking · IBM Garage Methodology</sub> | IBM · Credly | ago/2026 | [verificar ↗](https://www.credly.com/badges/06a92c19-fec9-4d7f-be6e-81190c6db206/public_url) |
+| **Curso de Python 3 do básico ao avançado** <br/><sub>141h · POO, Django, PySide6, SQL, TDD, Design Patterns GoF</sub> | Udemy | jun/2025 | [verificar ↗](https://ude.my/UC-adbf7bf9-e91c-47ea-a348-462869648b5c) |
 
 <details>
 <summary><b>Cursos concluídos e em andamento</b></summary>
 <br/>
 
 - [x] **Git e GitHub para iniciantes** — Udemy · Willian Justen · [curso ↗](https://www.udemy.com/course/git-e-github-para-iniciantes/)
-- [ ] **Python 3 do básico ao avançado** — Udemy · Luiz Otávio Miranda · 140h+ (POO, Django, PySide6, SQL, TDD, Design Patterns GoF) · reta final · [curso ↗](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
 - [ ] **Google Data Analytics** (certificado profissional) — Coursera · em andamento
 
 </details>
