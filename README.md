@@ -97,6 +97,7 @@ IT analyst and full-stack developer at a multi-site cosmetics manufacturer in Br
 
 | | Projeto | O que resolve | Stack |
 |:-:|---|---|---|
+| 📥 | **Solynth Recebimento** <br/><sub>[demo ↗](https://lucasjpl1.github.io/solynth-recebimento/) · [código](https://github.com/lucasjpl1/solynth-recebimento)</sub> | Chegada de notas na doca: bipagem da chave com validação, foto de comprovação, painel de status, aviso ao cliente e painel de TV. Demo com dados fictícios | JS · HTML · CSS |
 | 🔍 | **Visualizador GlobalPro** | Auditoria contínua de dados mestres com 9 abas de análise e *fuzzy matching* — nasceu de um dossiê para a diretoria antes da migração | Next.js · TS · SQL Server |
 | 🔁 | **Migração ERP** | Legado → Omie + IAPP: saneamento de ~1,2 mil conflitos de código, mapeamento de campos e operação em paralelo para validação | SQL · Omie · IAPP |
 | 🧾 | **Necessidade de Produção** | Transformar a planilha manual de necessidade de produção em aplicação web | Next.js · PostgreSQL |
